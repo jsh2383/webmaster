@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\Join\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\Join\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\Join\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_drawer.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\Join\\app\\src\\main\\res\\menu\\activity_navigation_drawer.xml"
+    }
+]
