@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">New User Register</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="string_choose_id">Choose your id</string>
+    <string name="string_choose_password">Choose your password</string>
+    <string name="string_choose_username">Enter your username</string>
+    <string name="string_enter_email">Enter your email</string>
+    <string name="string_enter_age">Choose your age</string>
+    <string name="string_enter_sex">Choose your sex</string>
+    <string name="string_enter_pnumber">Choose your pnumber</string>
+
+    <string name="button_register">Register</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
+
